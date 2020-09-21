@@ -1,9 +1,9 @@
 # tadasikutukurujuku_memo
 
 
-## PICT図
+## PICT図解
 
-不動産管理会社がメインの図です。
+不動産管理会社の業務をメインにしたPICT図解です。
 
 ![pict図](pict-8.jpg)
 
